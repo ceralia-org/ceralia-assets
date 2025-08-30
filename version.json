@@ -1,10 +1,13 @@
 {
   "tracks": {
     "stable": {
-      "version": "1.0.77"
+      "version": "1.0.78"
     },
     "beta": {
       "version": "1.0.77"
+    },
+    "candidate": {
+      "version": "1.0.78"
     }
   }
 }
