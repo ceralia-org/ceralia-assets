@@ -1,13 +1,16 @@
 {
   "tracks": {
     "stable": {
-      "version": "1.0.79"
+      "version": "1.0.80",
+      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice"
     },
     "beta": {
-      "version": "1.0.77"
+      "version": "1.0.77",
+      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice"
     },
     "candidate": {
-      "version": "1.0.79"
+      "version": "1.0.80",
+      "link": "https://play.google.com/apps/internaltest/4701716998596287619"
     }
   }
 }
