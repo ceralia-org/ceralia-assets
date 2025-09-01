@@ -2,15 +2,18 @@
   "tracks": {
     "stable": {
       "version": "1.0.74",
-      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice"
+      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice",
+      "availableAt": "2024-01-01T00:00:00Z"
     },
     "beta": {
       "version": "1.0.77",
-      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice"
+      "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice",
+      "availableAt": "2024-01-01T00:00:00Z"
     },
     "candidate": {
-      "version": "1.0.83",
-      "link": "https://play.google.com/apps/internaltest/4701716998596287619"
+      "version": "1.0.84",
+      "link": "https://play.google.com/apps/internaltest/4701716998596287619",
+      "availableAt": "2024-01-01T00:00:00Z"
     }
   }
 }
