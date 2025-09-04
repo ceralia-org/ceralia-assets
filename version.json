@@ -1,7 +1,7 @@
 {
   "tracks": {
     "stable": {
-      "version": "1.0.74",
+      "version": "1.0.94",
       "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice",
       "availableAt": "2024-01-01T00:00:00Z"
     },
@@ -11,7 +11,7 @@
       "availableAt": "2024-01-01T00:00:00Z"
     },
     "candidate": {
-      "version": "1.0.92",
+      "version": "1.0.94",
       "link": "https://play.google.com/apps/internaltest/4701716998596287619",
       "availableAt": "2024-01-01T00:00:00Z"
     }
