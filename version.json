@@ -6,18 +6,18 @@
       "availableAt": "2024-01-01T00:00:00Z"
     },
     "beta": {
-      "version": "1.0.106",
+      "version": "1.0.115",
       "link": "https://play.google.com/store/apps/details?id=app.lovable.spesasemplice",
       "availableAt": "2024-01-01T00:00:00Z"
     },
     "candidate": {
-      "version": "1.0.114",
+      "version": "1.0.115",
       "link": "https://play.google.com/apps/internaltest/4701716998596287619",
       "availableAt": "2024-01-01T00:00:00Z",
       "mandatory": true
     },
     "alpha": {
-      "version": "1.0.114",
+      "version": "1.0.115",
       "mandatory": true
     }
   }
